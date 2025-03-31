@@ -113,6 +113,9 @@ python main.py
 ✔ **Data Ingestion ➔ Data Validation ➔ Data Transformation**  
 ✔ **Model Training ➔ Model Evaluation ➔ Model Deployment**  
 ✔ **CI/CD Automation using GitHub Actions, Docker, AWS EC2, and ECR**  
+![Vehicle Insurance MLOps Pipeline](https://github.com/Priyanshs-singh/vehicle_insurance/blob/main/Screenshot%202025-03-30%20123643.png)
+
+
 
 ---
 
