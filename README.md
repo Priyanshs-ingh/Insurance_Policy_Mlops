@@ -123,16 +123,4 @@ python main.py
 
 ---
 
-## 📬 Connect  
-If you found this project useful, **⭐ star this repository** and feel free to reach out!  
 
----
-
-### **Resume Description:**  
-
-**MLOps Project: Vehicle Insurance Data Pipeline**  
-Designed and implemented an **end-to-end MLOps pipeline** for vehicle insurance data, covering **data ingestion, processing, model training, and deployment**. Utilized **Python, MongoDB, AWS (S3, EC2, ECR), Docker, and GitHub Actions** for automation and scalability. Integrated **CI/CD pipelines** with **Docker & AWS EC2** to deploy a FastAPI-based model API. Ensured robust logging, exception handling, and validation mechanisms for seamless operation.  
-
----
-
-This version ensures proper markdown formatting for your GitHub README while keeping your resume description crisp and impactful. 🚀 Let me know if you need any modifications!
